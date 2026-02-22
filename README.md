@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Khaleeq 👋
 
-<!--
-**KhaleeqData/KhaleeqData** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Data Science  
+📍 London, UK  
+💡 Interested in Data Engineering & MLOps  
 
-Here are some ideas to get you started:
+## 🔧 Technical Skills
+- Python
+- SQL
+- Pandas
+- PySpark
+- AWS
+- Hadoop
+- ETL Pipelines
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+(Projects coming soon — currently uploading)
+
+## 📫 Connect With Me
+LinkedIn: (www.linkedin.com/in/khaleeq02)
+Email: (khaleeqz215@gmail.com)
