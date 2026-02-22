@@ -13,9 +13,6 @@
 - Hadoop
 - ETL Pipelines
 
-## 📂 Projects
-(Projects coming soon — currently uploading)
-
 ## 📫 Connect With Me
 LinkedIn: (www.linkedin.com/in/khaleeq02)
 Email: (khaleeqz215@gmail.com)
